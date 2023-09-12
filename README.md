@@ -1,6 +1,6 @@
 # pushmoney-business.service
 
-Sorry for bad code in some places, I'll fix it later 💌 
+From hackathon "FICHA", money transfer platform
 <br/>
 node version - 18.13.0
 ```bash
@@ -10,6 +10,6 @@ $ npm run dev
 ```
 don't forget to set up .env, look at the sample
 <br/>
-Вы удивитесь, но я затестил все, и оно работает)
+telegram: @RLWBDV
 <br/>
-telegram: @RLedin
+24.08.23-26.08.23
